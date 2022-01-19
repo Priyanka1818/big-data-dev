@@ -7,5 +7,5 @@ I'm from Vijayawada, Andhra Pradesh state, India. I have completed my undergrad 
 # Plans   
 I would like to become a full-stack developer.
 # Links   
-[Github](https://github.com/Priyanka1818)
+[Github](https://github.com/Priyanka1818)   
 [LinkedIn](https://www.linkedin.com/in/priyanka-thambabathula-83478318b)
